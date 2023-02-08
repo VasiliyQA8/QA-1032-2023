@@ -1,0 +1,1 @@
+git@github.com:VasiliyQA8/QA-1032-2023.git
